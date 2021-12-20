@@ -1,0 +1,3 @@
+[submodule "Mizi"]
+	path = Mizi
+	url = https://github.com/AbstractXan/Mizi.git
